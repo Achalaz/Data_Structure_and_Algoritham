@@ -14,4 +14,9 @@ void push(int value){
 
 int main(){
     push(50);
+     push(50);
+      push(50);
+       push(50);
+        push(50);
+         push(50);
 }
